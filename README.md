@@ -25,8 +25,11 @@ Elle offre une manipulation aisée des transactions, de leur chargement depuis u
 Pour installer et exécuter Transaction Book, suivez ces étapes :
 
 git clone https://github.com/douuvid/excel_vba.git
+
 cd excel_vba
+
 pip install -r requirements.txt
+
 python exo.py
 
 🚀 Utilisation
